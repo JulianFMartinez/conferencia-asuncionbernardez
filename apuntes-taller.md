@@ -4,54 +4,54 @@
 ###### Apuntes de la conferencia
 # Asunción Bernárdez Rodal
 ![](https://proyectorespect.files.wordpress.com/2019/10/asuncion-bernardez.png "Asunción Bernárdez")
+
 La doctora **Asunción Bernández Rodal** es catedrática de periodismo en la Facultad de Ciencias de la Información de la Universidad Complutense.
 Es especialista en estudios de *Comunicación y Género, Semiótica de los Medios de Masas y Teoría de la Información*, asignaturas que imparte en esa universidad española.
 
 **Bernárdez Rodal** dirigió el Instituto de Investigaciones Feministas de la Universidad Complutense de Madrid entre los años 2011 y 2019. 
-Ha coordinado el programa de Doctorado en *Estudios Feministas y de Género* y del *Máster en Estudios Feministas*.
+Ha coordinado el programa de Doctorado en *Estudios Feministas y de Género* y del *Máster en Estudios Feministas*. Para profundizar sobre su trayectoia profesional en la academia se puede revisar su perfil oficial publicado en la [Universidad Complutense de Madrid.](https://www.ucm.es/asbernar/)
 
-Fuente https://www.ucm.es/asbernar/
+# 1. Estudios de género
 
-Profesora de la Facultad de Ciencias de la Comunicación
-Catedrática de periodismo
-Se ha interesado en estudios de género y teorías de la información
-Especial en los últimos años han sido los estudios de género. Ver cómo los medios de comunicación trata la construcción de identidades 
+## 1.1. Diferencias entre **sexo** y **género**
+  - Sexo se define por nuestros razgos físicos *Hombre* o *mujer*
+  - Estas diferencias que se van creando con base en educación. Esto es lo que llamamos género: atribuciones *Masculino* o *Femenino*
+  - El tercer binomio es la cuestión sexual. Normalmente se dice qué tendencia tenemos, si somos *heterosexuales* u *homosexuales*
 
-Estudios de género
+## 1.2. La diferencia se convierte en desigualdad
+- Las cinco grandes empresas que hoy dominan el mundo a base de los `"Me gusta"` tienen género
+  - Jeff Bezos [(Amazon)](https://www.amazon.com/)
+  - Bill Gates [(Microsoft)](https://www.microsoft.com/es-co)
+  - Mark Zuckerberg [(Facebook)](https://www.facebook.com/)
+  - Larry Ellyson [(Oracle)](https://www.oracle.com/co/)
+  - Larry Page [(Google)](https://www.google.com)
 
-¿Si habeis hecho un discurso o conocemos la diferencia entre sexo y género?
+![](https://www.bankinter.com/file_source/blog/Contents/Noticias/images-static/Empresarios_tecnologicos.jpg)
 
-Los medios construyen la realidad. 
-Los medios de comunicación construyen nuestra idea de mundo.
-Los medios son constructivos
-El periodismo trabaja haciendo recortes de lo real y devolverlos narrados al público
-Los medios no devuelven una imagen igualitaria de lo que son los hombres y las mujeres en el mundo
+- Todas han sido creadas por jóvenes blancos americanos
 
-2. Diferencias
-Sexo se define por nuestros razgos físicos (Hombre o mujer)
-Estas diferencias que se van creando con base en educación es lo que llamamos género, atribuciones (Masculino o Femenino)
-Tercer binomio. La opción - cuestión sexual: normalmente se dice qué tendencia si somos (heterosexuales u homosexuales)
+## 1.3. Reflexiones sobre los medios de comunicación
 
-La diferencia se convierte en desigualdad
-Acá poner ejemplo diapositiva con Bill Gates y Jeff Bezos
+      - Los medios construyen la realidad
+      
+      - Los medios de comunicación construyen nuestra idea de mundo
+      
+      - Los medios son constructivos
+      
+      - El periodismo trabaja haciendo recortes de lo real y devolverlos narrados al público
+      
+      - Los medios no devuelven una imagen igualitaria de lo que son los hombres y las mujeres en el mundo
 
-1. Presentación 
-- Análisis de discurso
-- Análisis de datos (se los ha proporcionado alguien)
-- Análisis crítico de género
+# 2. Redes sociales y digitalización 
+- La unidireccionalidad se termina con las redes sociales
+- Toda investigación debe ser delimitada
+- Hoy existen muchas herramientas para estudiar datos, ni siquiera los datos necesitan una interpretación. Los datos son un mapa de la realidad pero no son la realidad misma
+- Para el periodismo es muy importante el concepto de `VERDAD`
+- La sociedad necesita saber qué es verdadero y qué es falso
 
-3. Redes sociales y digitalización 
-La unidireccionalidad se termina con las redes sociales
-Toda investigación debe ser delimitada
-Hoy existen muchas herramientas para estudiar datos, ni siquiera los datos necesitan una interpretación. Los datos son un mapa de la realidad, no son la realidad misma
+# 3. Capitalismo neoliberal, gig economía y economía de plataformas 
 
-Para el periodismo es muy importante el concepto de VERDAD
-LA sociedad necesita saber qué es verdadero y qué es falso
+# 4. La degradación laboral afecta tambien a los trabajadores altamente especializados
 
-4. Capitalismo neoliberal, gig economía y economía de plataformas 
-
-5. La degradación laboral afecta tambien a los trabajadores altamente especializados
-
-Conclusión sesgo de género
-
+# 5. Conclusión sesgo de género
 Cambios sociales
