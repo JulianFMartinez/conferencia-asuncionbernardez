@@ -3,7 +3,7 @@
 ###### 10 de enero de 2023 
 ###### Apuntes de la conferencia
 # Asunción Bernárdez Rodal
-![](https://www.ucm.es/data/cont/media/www/pag-36209//arbol%20kike%20para%20copia%202%20(1).jpg "Asunción Bernárdez")
+![](https://proyectorespect.files.wordpress.com/2019/10/asuncion-bernardez.png "Asunción Bernárdez")
 La doctora **Asunción Bernández Rodal** es catedrática de periodismo en la Facultad de Ciencias de la Información de la Universidad Complutense.
 Es especialista en estudios de *Comunicación y Género, Semiótica de los Medios de Masas y Teoría de la Información*, asignaturas que imparte en esa universidad española.
 
