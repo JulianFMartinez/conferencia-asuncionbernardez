@@ -19,16 +19,6 @@ Ha coordinado el programa de Doctorado en *Estudios Feministas y de Género* y d
   - El tercer binomio es la cuestión sexual. Normalmente se dice qué tendencia tenemos, si somos *heterosexuales* u *homosexuales*
 
 ## 1.2. La diferencia se convierte en desigualdad
-- Las cinco grandes empresas que hoy dominan el mundo a base de los `"Me gusta"` tienen género
-  - Jeff Bezos [(Amazon)](https://www.amazon.com/)
-  - Bill Gates [(Microsoft)](https://www.microsoft.com/es-co)
-  - Mark Zuckerberg [(Facebook)](https://www.facebook.com/)
-  - Larry Ellyson [(Oracle)](https://www.oracle.com/co/)
-  - Larry Page [(Google)](https://www.google.com)
-
-![](https://www.bankinter.com/file_source/blog/Contents/Noticias/images-static/Empresarios_tecnologicos.jpg)
-
-- Todas han sido creadas por jóvenes blancos americanos
 
 ## 1.3. Reflexiones sobre los medios de comunicación
 
@@ -50,8 +40,28 @@ Ha coordinado el programa de Doctorado en *Estudios Feministas y de Género* y d
 - La sociedad necesita saber qué es verdadero y qué es falso
 
 # 3. Capitalismo neoliberal, gig economía y economía de plataformas 
+- Automandatos: `"sé flexible`, `sé creativa`, `móntate una empresa`, `sé libre`
+- se oculta la cara amarga de la precaridad laboral y condena a la masa salarial a la auto-promoción en un mundo desestructurado y a-normativo ("*Infoproletariado*" Morgan, George and Nelligan, Parience, 2018) 
 
 # 4. La degradación laboral afecta tambien a los trabajadores altamente especializados
+- Todo el mundo puede generar contenidos que alimentan de forma gratuita a las grandes empresas sin que tengan que gastar dinero en pagar especialistas.
+    - Periodistas
+    - Guionistas
+    - Ilustradoras
 
-# 5. Conclusión sesgo de género
-Cambios sociales
+Lo hemos visto en la epidemia de Covid 19 y las burbujas informativas de gurús.
+- Falta de creencia en la especialización
+- Crisis en la creencia de la ciencia
+
+# 5. Conclusión 
+## Sesgo de género
+- Las cinco grandes empresas que hoy dominan el mundo a base de los `"Me gusta"` tienen género
+  - Jeff Bezos [(Amazon)](https://www.amazon.com/)
+  - Bill Gates [(Microsoft)](https://www.microsoft.com/es-co)
+  - Mark Zuckerberg [(Facebook)](https://www.facebook.com/)
+  - Larry Ellyson [(Oracle)](https://www.oracle.com/co/)
+  - Larry Page [(Google)](https://www.google.com)
+
+![](https://www.bankinter.com/file_source/blog/Contents/Noticias/images-static/Empresarios_tecnologicos.jpg)
+
+- Todas han sido creadas por jóvenes blancos americanos
